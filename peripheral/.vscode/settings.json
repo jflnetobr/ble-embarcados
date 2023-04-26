@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "ble_service.h": "c",
+    "ble_application.h": "c",
+    "kernel.h": "c",
+    "bluetooth.h": "c",
+    "stdint.h": "c",
+    "gatt.h": "c",
+    "type_traits": "c"
+  }
+}
